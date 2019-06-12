@@ -1,51 +1,51 @@
 {
-  books: [
+  "books": [
     {
-      id: 1,
-      title: "The master algorithm",
-      author: 1
+      "id": 1,
+      "title": "The master algorithm",
+      "author": 1
     },
     {
-      id: 2,
-      title: "On intelligence",
-      author: 3
+      "id": 2,
+      "title": "On intelligence",
+      "author": 3
     },
     {
-      id: 3,
-      title: "Superintelligence",
-      author: 2
+      "id": 3,
+      "title": "Superintelligence",
+      "author": 2
     },
     {
-      id: 4,
-      title: "How to create a mind",
-      author: 4
+      "id": 4,
+      "title": "How to create a mind",
+      "author": 4
     }
   ],
-  authors: [
+  "authors": [
     {
-      id: 1,
-      name: "Pedro Domingos",
-      wiki:
+      "id": 1,
+      "name": "Pedro Domingos",
+      "wiki":
         "https://en.wikipedia.org/w/api.php?action=parse&page=Pedro_Domingos",
-      similar: [2]
+      "similar": [2]
     },
     {
-      id: 2,
-      name: "Nick Bostrom",
-      wiki: "https://en.wikipedia.org/w/api.php?action=parse&page=Nick_Bostrom",
-      similar: [1, 3]
+      "id": 2,
+      "name": "Nick Bostrom",
+      "wiki": "https://en.wikipedia.org/w/api.php?action=parse&page=Nick_Bostrom",
+      "similar": [1, 3]
     },
     {
-      id: 3,
-      name: "Jeff Hawkins",
-      wiki: "https://en.wikipedia.org/w/api.php?action=parse&page=Jeff_Hawkins",
-      similar: [2]
+      "id": 3,
+      "name": "Jeff Hawkins",
+      "wiki": "https://en.wikipedia.org/w/api.php?action=parse&page=Jeff_Hawkins",
+      "similar": [2]
     },
     {
-      id: 4,
-      name: "Ray Kurzweil",
-      wiki: "https://en.wikipedia.org/w/api.php?action=parse&page=Ray_Kurzweil",
-      similar: [3, 1]
+      "id": 4,
+      "name": "Ray Kurzweil",
+      "wiki": "https://en.wikipedia.org/w/api.php?action=parse&page=Ray_Kurzweil",
+      "similar": [3, 1]
     }
   ]
 }
